@@ -27,8 +27,6 @@ export class BehaviorInitializeValidate {
     }
 
     private static hasNameConflict(addon: AddonProperty): boolean {
-
-        
         return false;
     }
 
